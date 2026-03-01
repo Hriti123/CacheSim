@@ -174,3 +174,5 @@ MIT License
 
 Contributions welcome! Please see CLAUDE.md for development guidelines.
 
+## Contributor
+Hriti Ahuja – Data Science Student
